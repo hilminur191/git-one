@@ -1,9 +1,6 @@
-import Header from "@/components/Header";
-
 export default function Home() {
   return (
     <>
-      <Header />
       <main className="min-h-screen flex items-center justify-center bg-gray-100 text-center p-10">
         <div>
           <h1 className="text-4xl font-bold mb-4 text-emerald-700">
