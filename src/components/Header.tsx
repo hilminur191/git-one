@@ -11,6 +11,9 @@ export default function Header() {
         <Link href="/about" className="text-blue-500 hover:underline">
           Tentang
         </Link>
+        <Link href="/projects" className="text-blue-500 hover:underline">
+          Project
+        </Link>
       </nav>
     </header>
   );
